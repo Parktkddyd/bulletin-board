@@ -7,8 +7,11 @@
 <title>JSP 게시판 웹사이트</title>
 </head>
 <body>
+	<%
+	session.invalidate(); // 세션 뺏기
+	%>
 	<script>
-		location.href = 'main.jsp';
+	location.href = 'main.jsp';
 	</script>
 </body>
 </html>
