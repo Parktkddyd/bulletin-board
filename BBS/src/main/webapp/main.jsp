@@ -70,7 +70,7 @@
 			<div class="container">
 				<h1>웹 사이트 소개</h1>
 				<p>이 웹사이트는 부트스트랩으로 만든 JSP 웹사이트입니다. 사이트는 게시판을 운영을 위한 목적으로 만들어졌습니다.
-				<p><a class="btn btn-primary btn-pull" href="#" role="button">자세히 알아보기</a></p>
+				<p><a class="btn btn-primary btn-pull" href="https://github.com/Parktkddyd/bulletin-board" role="button">자세히 알아보기</a></p>
 			</div>
 		</div>
 	</div>
